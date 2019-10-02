@@ -1,7 +1,9 @@
-Lyric Scraper
+#Lyric Scraper
 
-REQUIRES THE INSTALLATION OF:
+**REQUIRES THE INSTALLATION OF:**
 BeautifulSoup - pip install beautifulsoup4
+
+---
 
 Generates an AZLyrics.com link to scrape for lyrics by song and artist.
 
