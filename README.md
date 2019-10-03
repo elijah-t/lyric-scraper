@@ -1,6 +1,6 @@
 # Lyric Scraper
 
-**REQUIRES THE INSTALLATION OF:**\
+**REQUIRES THE INSTALLATION OF:**
 * BeautifulSoup - pip install beautifulsoup4
 
 ---
